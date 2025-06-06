@@ -95,7 +95,7 @@ object methods
 - hasOwnProperty() : returns true if the object has the specified property as its own property 
 
 
-module 6
+module 5
 
 ES6
 what is it?
@@ -104,7 +104,7 @@ main features.
  - let and const keyword
  - arrow function
  - default parameters
- = template literals and multi line strins
+ - template literals and multi line strins
  - destructing
  - higher order functions 
  - promises

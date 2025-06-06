@@ -1,4 +1,4 @@
-var a = 10;
-var a = 20
-
-console.log("Value of a:", a); // Outputs: Value of a: 20
+let sum = 0;
+let arr = [10,15,20,30];  
+arr.forEach(function myFunction(element) {  sum = sum + element;  });  
+console.log(sum);

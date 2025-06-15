@@ -1,0 +1,3 @@
+This is a sample text file.
+It is used to demonstrate synchronous and asynchronous file reading in Node.js.
+Have a nice day!

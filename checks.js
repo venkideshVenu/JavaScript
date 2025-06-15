@@ -1,4 +1,10 @@
-let sum = 0;
-let arr = [10,15,20,30];  
-arr.forEach(function myFunction(element) {  sum = sum + element;  });  
-console.log(sum);
+async function f() {
+ let result = 'new!';
+ let promise = new Promise((resolve, reject) => {
+ setTimeout(() => resolve('done!'), 1000);
+ });
+result = await promise;
+console.log(result);
+}
+
+f();

@@ -1,6 +1,3 @@
-Here is a detailed breakdown of **Module 7 – Object-Oriented JavaScript**, with concepts, definitions, and examples:
-
----
 
 ## 🧠 **Module 7: Object-Oriented JavaScript**
 
